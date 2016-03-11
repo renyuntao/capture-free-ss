@@ -1,4 +1,4 @@
-# 简介
+# 简介       
 该程序运行于VPS之上，用于抓取 [IShadowsocks](http://www.ishadowsocks.com) 上的免费Shadowsocks帐号，并将抓取的免费Shadowsocks帐号通过E-mail发送给在文件 **UserAddr.txt** 中保存的邮箱中。         
 参见: [免费SS帐号分享](http://user.qzone.qq.com/498266085/blog/1457402662)
     
